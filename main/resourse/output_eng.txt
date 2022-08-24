@@ -1,0 +1,2367 @@
+0-0  9
+1-0  nine
+0-0  AOX value
+0-0  ASEAN
+1-0  Association of Southeast Asian Nations
+0-0  Abidjan
+0-0  Abkhaz
+1-0  Abkhazian
+0-0  Abkhazia
+0-0  Abraham Lincoln
+0-0  Abuja
+0-0  Adelaide
+0-0  Aegean Sea
+0-0  Afghanistan
+1-0  Transitional Islamic State of Afghanistan
+0-0  Africa
+0-0  Afrikaans
+0-0  Republic of Albania
+1-0  Albania
+0-0  Algeria
+0-1  Algeria
+0-2  Algeria
+1-0  People's Democratic Republic of Algeria
+1-1  People's Democratic Republic of Algeria
+1-2  People's Democratic Republic of Algeria
+0-0  American Samoa
+0-0  American football
+0-0  Americas
+0-0  Ames test
+0-0  Amsterdam
+0-0  Principality of Andorra
+1-0  Andorra
+0-0  Angola
+1-0  Republic of Angola
+0-0  Anguilla
+0-0  Antarctic Ocean
+0-1  Antarctic Ocean
+0-2  Antarctic Ocean
+1-0  Southern Ocean
+1-1  Southern Ocean
+1-2  Southern Ocean
+0-0  Antarctic ecosystem
+0-0  Antarctica
+0-0  Antigua and Barbuda
+0-0  April
+0-0  Apus
+0-0  Aquarius
+0-0  Aquila
+0-0  Arabic
+1-0  Standard Arabic
+0-0  Aragonese
+0-0  Arctic Ocean
+0-0  Arctic ecosystem
+0-0  Argentina
+1-0  Argentine Republic
+0-0  Aries
+0-0  Arizona
+0-0  Armenia
+0-0  Armenian
+0-0  Articulata
+0-0  Aruba
+0-0  Asia
+0-0  Assamese
+0-0  Asturian
+0-1  Asturian
+1-0  Asturian-Leonese
+1-1  Asturian-Leonese
+2-0  Astur-Leonese
+2-1  Astur-Leonese
+3-0  Astur
+3-1  Astur
+0-0  Athens
+0-0  Atlantic Ocean
+0-0  August
+0-0  Commonwealth of Australia
+1-0  Australia
+0-0  Republic of Austria
+1-0  Austria
+0-0  Austro-Hungarian Empire
+1-0  Austria-Hungary
+0-0  Republic of Azerbaijan
+1-0  Azerbaijan
+0-0  Azerbaijani
+1-0  Azeri
+2-0  Azerbaijani Cluster
+0-0  bulletin board system
+1-0  BBS
+0-0  Bahama Islands
+1-0  Bahamas
+2-0  Commonwealth of the Bahamas
+0-0  Bahrain
+0-0  Balearic Islands
+0-0  Bangladesh
+1-0  People's Republic of Bangladesh
+0-0  Barbados
+0-0  Basque
+0-0  Bavaria
+0-0  Beijing
+0-0  Republic of Belarus
+0-1  Republic of Belarus
+1-0  Belarus
+1-1  Belarus
+0-0  Byelorussian
+1-0  Belarusan
+2-0  Belorussian
+3-0  Belarusian
+0-0  Kingdom of Belgium
+1-0  Belgium
+0-0  Belgrade
+0-0  Belize
+0-0  Belmopan
+0-0  Bengali
+0-0  Benin
+1-0  Republic of Benin
+0-0  Berlin
+0-0  Bermuda
+0-0  Berne
+0-0  Bethlehem
+0-0  Bhutan
+1-0  Kingdom of Bhutan
+0-0  Bible
+0-0  Birmingham
+0-0  Black Sea
+0-0  Bokmål
+0-0  Bolivia
+1-0  Republic of Bolivia
+0-0  Bonn
+0-0  Kalimantan
+0-1  Kalimantan
+1-0  Borneo
+1-1  Borneo
+0-0  Bosnia and Herzegovina
+1-0  Republic of Bosnia and Herzegovina
+0-0  Bosnian
+0-0  Botswana
+1-0  Republic of Botswana
+0-0  Bouvet Island
+0-0  Bratislava
+0-0  Brazil
+0-0  Breton
+0-0  BIOT
+1-0  British Indian Ocean Territory
+0-0  Negara Brunei Darussalam
+1-0  Brunei
+0-0  Brussels
+0-0  Bucharest
+0-0  Bulgaria
+1-0  Republic of Bulgaria
+0-0  Bulgarian
+0-1  Bulgarian
+0-0  Bulgarian
+0-0  Burkina Faso
+0-0  Burmese
+0-0  Republic of Burundi
+1-0  Burundi
+0-0  CD-ROM
+0-0  CD-ROM search service
+0-0  CFC
+1-0  chlorofluorocarbon
+0-0  CFC and halons prohibition
+0-0  Cairo
+0-0  California
+0-0  Cambodia
+1-0  Kingdom of Cambodia
+0-0  Cameroon
+1-0  Republic of Cameroon
+0-0  Canada
+0-0  Cancer
+0-0  Canis Major
+0-0  Republic of Cape Verde
+1-0  Cape Verde
+0-0  Capricorn
+0-0  Caribbean Area
+1-0  Caribbean
+0-0  Caribbean Sea
+0-0  Caspian Sea
+0-0  Cassiopeia
+0-0  Spanish
+0-1  Spanish
+1-0  Castilian
+1-1  Castilian
+0-0  Catalan
+0-0  Cayman Islands
+0-0  Central Africa
+0-0  Central African Republic
+0-0  Central America
+0-0  Central Asia
+0-0  Chad
+1-0  Republic of Chad
+0-0  Chechen
+0-0  Chihuahua
+0-0  chihuahua
+1-0  Chihuahua
+0-0  Chile
+1-0  Republic of Chile
+0-0  Chinese
+0-0  Christmas
+0-0  Christmas Island
+0-0  Christmas tree
+0-0  Chttash
+0-1  Chttash
+1-0  Chuwash
+1-1  Chuwash
+2-0  Chuvash
+2-1  Chuvash
+3-0  Chavash
+3-1  Chavash
+4-0  Chovash
+4-1  Chovash
+0-0  Cologne
+0-0  Colombia
+1-0  Republic of Colombia
+0-0  Community act
+0-0  Community budget
+0-0  Community finance
+0-0  Community law
+0-0  Community legal system
+0-0  Community ruling
+0-0  Union of the Comoros
+1-0  Comoros
+0-0  Cook Islands
+0-0  Copenhagen
+0-0  Corfu
+0-0  Cornish
+0-0  Corsican
+0-0  Republic of Costa Rica
+1-0  Costa Rica
+0-0  Court of Justice of the European Communities
+0-0  Croatia
+1-0  Republic of Croatia
+0-0  Croation
+1-0  Croatian
+0-0  Republic of Cuba
+1-0  Cuba
+0-0  Republic of Cyprus
+1-0  Cyprus
+0-0  Czech
+0-0  Czech Republic
+1-0  Czechia
+0-0  dichloro-diphenyl-trichloroethane
+1-0  DDT
+0-0  DNA
+0-1  DNA
+1-0  deoxyribonucleic acid
+1-1  deoxyribonucleic acid
+0-0  Dagestan
+0-0  Dakar
+0-0  Danish
+0-0  December
+0-0  definition
+1-0  Definition
+0-0  Delaware
+0-0  Congo-Kinshasa
+1-0  Democratic Republic of the Congo
+0-0  Denmark
+1-0  Kingdom of Denmark
+0-0  Djibouti
+1-0  Republic of Djibouti
+0-0  Commonwealth of Dominica
+1-0  Dominica
+0-0  Dominican Republic
+0-0  Dublin
+0-0  Dutch
+0-0  EC Council of Ministers
+0-0  EC Treaty
+0-1  EC Treaty
+0-0  EC directive
+0-0  EC directive on biocides
+0-0  EC directive on waste disposal
+0-0  EC directive on water protection
+0-0  EC ecolabel
+0-0  EC policy
+0-0  EC regulation
+0-0  EC regulation on eco-management and audit
+0-0  EC regulation on existing chemicals
+0-0  EIA (local)
+0-0  environmental impact assessment
+1-0  EIA
+0-0  EIA directive
+0-0  EIA law
+0-0  EU
+1-0  European Union
+0-0  EU Council
+0-0  Earth-Sun relationship
+0-0  East Africa
+0-0  East Timor
+1-0  Democratic Republic of Timor-Leste
+0-0  East-West relations
+0-0  East-West trade
+0-0  Easter
+0-0  Eastern Asia
+1-0  East Asia
+0-0  Eastern Europe
+0-0  Republic of Ecuador
+1-0  Ecuador
+0-0  Arab Republic of Egypt
+1-0  Egypt
+0-0  El Salvador
+1-0  Republic of El Salvador
+0-0  England
+0-0  English
+0-0  English garden
+0-0  Epiphany
+0-0  Republic of Equatorial Guinea
+1-0  Equatorial Guinea
+0-0  Erevan
+0-1  Erevan
+1-0  Yerevan
+1-1  Yerevan
+0-0  Eritrea
+0-0  Esperanto
+0-0  Estonia
+1-0  Republic of Estonia
+0-0  Estonian
+0-1  Estonian
+0-0  Ethiopia
+1-0  Federal Democratic Republic of Ethiopia
+0-0  Euratom
+0-0  Europe
+0-0  European Commission
+0-0  European Communities
+0-0  European Court of Justice
+0-0  European Environment Agency
+0-0  European Environmental Council
+0-0  European Monetary Fund
+0-0  EMS
+1-0  European Monetary System
+0-0  European Parliament
+0-0  European nature reserve
+0-0  European standard
+0-0  Falkland Islands
+0-0  Faroe Islands
+0-0  Faroese
+1-0  Faeroese
+0-0  February
+0-0  Fiji
+1-0  Republic of the Fiji Islands
+0-0  Republic of Finland
+1-0  Finland
+0-0  Finnish
+0-0  Flanders
+1-0  Flemish region
+0-0  Flemish
+0-0  Flevoland
+0-0  France
+0-0  French
+0-0  French Guiana
+0-0  French Polynesia
+0-0  French Southern and Antarctic Lands
+0-1  French Southern and Antarctic Lands
+1-0  Territory of the French Southern and Antarctic Lands
+1-1  Territory of the French Southern and Antarctic Lands
+2-0  French Southern and Antarctic LandsA
+2-1  French Southern and Antarctic LandsA
+3-0  French Southern Territories
+3-1  French Southern Territories
+0-0  French formal garden
+0-0  Frenchman
+0-0  Friday
+0-0  Frisian
+0-1  Frisian
+1-0  Western Frisian
+1-1  Western Frisian
+0-0  GDP
+1-0  gross domestic product
+0-0  GDR
+0-1  GDR
+1-0  German Democratic Republic
+1-1  German Democratic Republic
+0-0  GIS digital format
+0-0  GIS digital system
+0-0  GIS digital technique
+0-0  GIS laboratory
+0-0  Gabonese Republic
+1-0  Gabon
+0-0  Gaborone
+0-0  Galician
+0-0  Gambia
+1-0  The Gambia
+2-0  Republic of The Gambia
+0-0  Gaza Strip
+0-0  Gemini
+0-0  Georgia
+0-0  Georgia
+0-0  Georgian
+0-0  German
+0-0  German
+0-1  German
+0-0  German (Austria)
+0-0  German (Switzerland)
+0-0  Germany
+1-0  Federal Republic of Germany
+0-0  Ghana
+1-0  Republic of Ghana
+0-0  Gibraltar
+0-0  Global Environment Facility
+0-1  Global Environment Facility
+0-2  Global Environment Facility
+1-0  GEF
+1-1  GEF
+1-2  GEF
+0-0  Britain
+1-0  Great Britain
+0-0  Greece
+1-0  Hellenic Republic
+0-0  Greek
+0-0  Greenland
+0-0  Grenada
+0-0  Guadeloupe
+0-0  Guam
+0-0  Republic of Guatemala
+1-0  Guatemala
+0-0  Guinea
+1-0  Republic of Guinea
+0-0  Republic of Guinea-Bissau
+1-0  Guinea-Bissau
+0-0  Gujarati
+0-1  Gujarati
+0-2  Gujarati
+0-0  Republic of Guyana
+1-0  Guyana
+0-0  H5N1
+0-1  H5N1
+0-2  H5N1
+1-0  Influenza A virus subtype H5N1
+1-1  Influenza A virus subtype H5N1
+1-2  Influenza A virus subtype H5N1
+2-0  A(H5N1)
+2-1  A(H5N1)
+2-2  A(H5N1)
+0-0  Haiti
+1-0  Republic of Haiti
+0-0  Hanover
+0-0  Happy New Year
+0-0  Hebrew
+0-0  Hercules
+0-0  Hindi
+0-0  Kingdom of the Netherlands
+1-0  The Netherlands
+2-0  Holland
+0-0  Republic of Honduras
+1-0  Honduras
+0-0  Hungarian
+0-0  Republic of Hungary
+1-0  Hungary
+0-0  I
+0-0  IMCO code
+0-0  IMF
+1-0  International Monetary Fund
+0-0  ISO standard
+0-1  ISO standard
+0-0  Republic of Iceland
+1-0  Iceland
+0-0  Icelandic
+0-0  Ido
+0-0  Iliad
+0-0  India
+1-0  Republic of India
+0-0  Indian Ocean
+0-0  Indonesia
+1-0  Republic of Indonesia
+0-0  Indonesian
+0-0  Indre
+0-0  Interlingua
+1-0  Interlingua, "Simplified" Latin
+0-0  International Court of Justice
+0-0  Internet
+0-0  Islamic Republic of Iran
+1-0  Iran
+0-0  Iraq
+1-0  Republic of Iraq
+0-0  Ireland
+1-0  Republic of Ireland
+0-0  Irish
+1-0  Irish Gaelic
+0-0  Islam
+0-0  Mann
+1-0  Isle of Mann
+2-0  Isle of Man
+0-0  State of Israel
+1-0  Israel
+0-0  Italian
+0-0  Italy
+1-0  Italian Republic
+0-0  Ivory Coast
+1-0  Cote d'Ivoire
+2-0  Republic of Cote d'Ivoire
+0-0  Djakarta
+1-0  Jakarta
+2-0  DKI Jakarta
+0-0  Jamaica
+0-0  January
+0-0  Japan
+1-0  State of Japan
+0-0  Japanese
+0-0  Javanese
+0-0  Jordan
+1-0  Hashemite Kingdom of Jordan
+0-0  Judaism
+0-1  Judaism
+0-0  July
+0-0  June
+0-0  Jupiter
+0-0  Kalaallisut
+0-0  Kannada
+0-0  Karelian
+0-0  Kazakh
+0-0  Kazakhstan
+1-0  Republic of Kazakhstan
+0-0  Republic of Kenya
+1-0  Kenya
+0-0  Khartoum
+0-0  Khmer
+1-0  Central Khmer
+0-0  Republic of Kiribati
+1-0  Kiribati
+0-0  Korean
+0-0  Kosovo
+0-0  Krakow
+1-0  Cracow
+0-0  Kuwait
+1-0  State of Kuwait
+0-0  Kyoto
+0-0  Kyrgyzstan
+1-0  Kyrgyz Republic
+0-0  Lagos
+0-0  Laos
+1-0  Lao People's Democratic Republic
+0-0  Latin
+0-1  Latin
+0-0  Latvia
+1-0  Republic of Latvia
+0-0  Latvian
+0-0  Lausanne
+0-0  Lebanon
+1-0  Lebanese Republic
+0-0  Petrograd
+0-1  Petrograd
+0-2  Petrograd
+1-0  Leningrad
+1-1  Leningrad
+1-2  Leningrad
+2-0  St. Petersburg
+2-1  St. Petersburg
+2-2  St. Petersburg
+3-0  Saint Petersburg
+3-1  Saint Petersburg
+3-2  Saint Petersburg
+0-0  Leo
+0-0  Lesotho
+1-0  Kingdom of Lesotho
+0-0  Liberia
+1-0  Republic of Liberia
+0-0  Great Socialist People's Libyan Arab Jamahiriya
+1-0  Libya
+0-0  Principality of Liechtenstein
+0-1  Principality of Liechtenstein
+1-0  Liechtenstein
+1-1  Liechtenstein
+0-0  Limburgian
+1-0  Limburgish
+0-0  Lisbon
+0-0  Lithuania
+1-0  Republic of Lithuania
+0-0  Lithuanian
+0-0  London
+0-0  Lower House
+0-0  Lower Saxony
+0-0  Luxembourg
+1-0  Grand Duchy of Luxembourg
+0-0  Luxembourgish
+1-0  Luxembourgian
+2-0  Luxemburgish
+0-0  Republic of Macedonia
+1-0  Macedonia
+0-0  Macedonian
+0-0  Madagascar
+1-0  Republic of Madagascar
+0-0  Republic of Malaŵi
+1-0  Malawi
+0-0  Malayalam
+0-1  Malayalam
+0-0  Malaysia
+0-0  Maldives
+1-0  Republic of the Maldives
+0-0  Mali
+1-0  Republic of Mali
+0-0  Malta
+1-0  Republic of Malta
+0-0  Maltese
+0-0  MarÄ thi
+1-0  Marāthi
+2-0  Marathi
+0-0  March
+0-0  Markoff chain
+1-0  Markov chain
+0-0  Republic of the Marshall Islands
+1-0  Marshall Islands
+0-0  Martinique
+0-0  Islamic Republic of Mauritania
+1-0  Mauritania
+0-0  Mauritius
+1-0  Republic of Mauritius
+0-0  May
+0-0  Mayotte
+0-0  Mecca
+0-0  Mediterranean Area
+0-0  Mediterranean Sea
+0-0  Mediterranean climate
+0-0  Mediterranean forest
+0-0  Mediterranean wood
+0-0  Mercury
+0-0  Merry Christmas
+0-0  Mexico
+1-0  United Mexican States
+0-0  Micronesia
+1-0  Federated States of Micronesia
+0-0  Milan
+0-0  Galaxy
+1-0  Milky Way
+0-0  Milwaukee
+0-0  Moldova
+0-0  Monaco
+0-0  Monday
+0-0  Mongolia
+0-0  Montenegro
+0-0  Montserrat
+0-0  Kingdom of Morocco
+1-0  Morocco
+0-0  Moscow
+0-0  Mount Fuji
+0-0  Mozambique
+0-0  Bombay
+0-1  Bombay
+1-0  Mumbai
+1-1  Mumbai
+0-0  Munich
+0-0  Myanmar
+0-0  NIMBY attitude
+1-0  NIMBY aptitude
+0-0  NOEL
+0-0  Nagorno-Karabakh
+0-0  Nairobi
+0-0  Namibia
+0-0  Naples
+0-0  Nauru
+1-0  Republic of Nauru
+0-0  Neapolitan
+0-0  Nepal
+0-0  Nepali
+0-0  Neptune
+0-0  New Caledonia
+0-0  New Year
+1-0  New Year's Day
+0-0  New York
+0-0  New Zealand
+0-0  Nicaragua
+0-0  Niger
+0-0  Nigeria
+0-0  Niue
+0-0  North Africa
+0-0  North America
+0-0  North Atlantic Ocean
+0-0  North Korea
+1-0  Democratic People's Republic of Korea
+0-0  North-South relationship
+0-0  Northern Ireland
+0-0  Kingdom of Norway
+1-0  Norway
+0-0  Norwegian
+0-0  November
+0-0  Novial
+0-0  Nuuk
+0-0  Nynorsk
+0-0  Oceania
+0-0  October
+0-0  Sultanate of Oman
+1-0  Oman
+0-0  Orleans
+0-0  Oslo
+0-0  Pacific Ocean
+0-0  Islamic Republic of Pakistan
+1-0  Pakistan
+0-0  Palau
+0-0  Panama
+0-0  Papua New Guinea
+0-0  Paraguay
+0-0  Parliament
+0-0  People's Republic of China
+1-0  China
+0-0  Persian
+0-1  Persian
+1-0  Western Farsi
+1-1  Western Farsi
+2-0  Farsi
+2-1  Farsi
+0-0  Republic of Peru
+1-0  Peru
+0-0  Philadelphia
+0-0  Philippines
+0-0  Phobos
+0-0  Piemontese
+1-0  Piedmontese
+0-0  Poland
+0-0  Polish
+0-0  Portugal
+0-0  Portuguese
+0-0  Puerto Rico
+0-0  Panjabi
+0-1  Panjabi
+1-0  Punjabi
+1-1  Punjabi
+0-0  Pyrrhic victory
+0-0  Qatar
+0-0  Ramadan
+0-0  Republic of the Congo
+1-0  Congo-Brazzaville
+0-0  Rhône
+0-0  Romania
+0-0  Romanian
+1-0  Romanaian
+0-0  Rome
+0-0  Russia
+0-1  Russia
+0-2  Russia
+1-0  Russian Federation
+1-1  Russian Federation
+1-2  Russian Federation
+0-0  Russian
+0-1  Russian
+0-0  Sagittarius
+0-0  Saint-Pierre and Miquelon
+0-0  Saghalien
+1-0  Sakhalin
+0-0  Samoa
+0-0  San Marino
+0-0  Sanskrit
+0-0  Sapir–Whorf hypothesis
+0-0  Saturday
+0-0  Saturn
+0-0  Kingdom of Saudi Arabia
+1-0  Saudi Arabia
+0-0  Saxony
+0-0  Scorpio
+0-0  Scotland
+0-0  Seine
+0-0  Senegal
+0-0  September
+0-0  Serbia
+0-0  Serbia and Montenegro
+0-0  Serbian
+0-0  Republic of Seychelles
+1-0  Seychelles
+0-0  Sicilian
+0-0  Sierra Leone
+0-0  Sindhi
+0-0  Singapore
+0-0  Slovak
+0-0  Slovakia
+0-0  Slovenian
+1-0  Slovene
+0-0  Slovenia
+0-0  Sochi
+0-0  Solomon Islands
+0-0  South Africa
+0-1  South Africa
+0-2  South Africa
+0-0  South America
+0-0  Republic of Korea
+1-0  South Korea
+0-0  Southeast Asia
+0-0  South Asia
+1-0  Southern Asia
+0-0  Spain
+0-0  Sri Lanka
+0-0  Sudan
+0-0  Sunday
+0-0  Suriname
+0-0  Swahili
+0-0  Sweden
+0-0  Swedish
+0-0  Switzerland
+0-0  Syrian Arab Republic
+1-0  Syria
+0-0  Tagalog
+0-0  Taiwan
+0-0  Tajik
+0-0  Tajikistan
+0-0  Tamil
+0-0  Tanzania
+0-0  Tatar
+0-1  Tatar
+0-0  Taurus
+0-0  Tehran
+0-0  Telugu
+0-0  Tennessee
+0-0  Thai
+0-0  Thailand
+0-0  The Hague
+0-0  Thuringia
+0-0  Thursday
+0-0  Togo
+0-0  Tokyo
+0-0  Tonga
+0-0  Toronto
+0-0  Tswana
+0-0  Tuesday
+0-0  Tunisia
+0-0  Turkey
+0-0  Turkish
+0-0  Turkmenistan
+0-0  United Nations
+1-0  UN
+0-0  Uganda
+1-0  Republic of Uganda
+0-0  Ukraine
+0-0  Ukrainian
+0-0  United Arab Emirates
+0-0  United Kingdom
+0-1  United Kingdom
+1-0  UK
+1-1  UK
+2-0  United Kingdom of Great Britain and Northern Ireland
+2-1  United Kingdom of Great Britain and Northern Ireland
+0-0  US
+0-1  US
+1-0  U.S. of A.
+1-1  U.S. of A.
+2-0  United States of America
+2-1  United States of America
+3-0  America
+3-1  America
+4-0  States
+4-1  States
+5-0  U.S.A.
+5-1  U.S.A.
+6-0  U.S.
+6-1  U.S.
+7-0  United States
+7-1  United States
+0-0  Uranus
+0-0  Urdu
+0-0  Utah
+0-0  Vaduz
+0-0  Vatican City
+1-0  The Holy See
+2-0  State of the Vatican City
+0-0  Venezuela
+0-0  Venice
+0-0  Venus
+0-0  Vienna
+0-0  Vietnamese
+0-0  Volapük
+0-0  Volga
+0-0  Wales
+0-0  Territory of the Wallis and Futuna Islands
+1-0  Wallis and Futuna
+0-0  Walloon
+0-0  Washington
+0-0  quarta-feira
+1-0  Wednesday
+0-0  Welsh
+0-0  Southwest Asia
+1-0  Western Asia
+0-0  Western Europe
+0-0  Wikipedia
+0-0  Wiktionary
+0-0  WWW
+1-0  World Wide Web
+0-0  Wyoming
+0-0  Xhosa
+0-0  Republic of Yemen
+1-0  Yemen
+0-0  Yiddish
+0-0  Yugoslavia
+0-0  Zambia
+1-0  Republic of Zambia
+0-0  Zanzibar
+0-0  Zimbabwe
+1-0  Republic of Zimbabwe
+0-0  Zulu
+0-1  Zulu
+0-0  amplitude
+1-0  aAmplitude
+0-0  aback
+0-0  abacus
+0-0  abandoned industrial site
+0-0  abandoned vehicle
+1-0  car wreck
+0-0  abbreviation
+0-0  abiotic environment
+0-0  abiotic factor
+0-0  abolitionist
+0-0  abortive
+0-0  abrasive
+0-0  abridge
+0-0  abscess
+0-0  absorption
+0-0  acceleration
+0-0  acceptable daily intake
+0-0  acceptable risk level
+0-0  access road
+0-0  access to administrative documents
+0-0  access to culture
+0-0  access to information
+0-0  access to the courts
+0-0  accident
+0-0  cause of the accident
+1-0  accident source
+0-0  accidental release of organisms
+0-0  accordion
+0-1  accordion
+1-0  piano accordion
+1-1  piano accordion
+2-0  squeeze box
+2-1  squeeze box
+0-0  accounting
+0-0  accounting system
+0-0  accumulator
+0-0  acid
+0-0  acid deposition
+0-0  acid rain
+0-0  acidification
+0-0  acidity
+0-0  acidity degree
+0-0  acne
+0-0  acoustic comfort
+0-0  acoustic filter
+1-0  audio filter
+0-0  acoustic insulation
+0-0  sound pressure level
+1-0  acoustic level
+0-0  acoustic property
+0-0  acoustical quality
+0-0  acoustics
+0-0  acquisition
+0-0  acrid
+0-0  deed
+1-0  act
+0-0  actinide
+0-0  actinium
+0-0  action committee
+1-0  action group
+0-0  activated carbon
+0-0  activated sludge
+0-0  active participation
+0-0  active population
+0-0  activist
+0-0  adaptation period
+0-0  add
+0-0  addition
+0-0  additional packaging
+0-0  additive
+0-0  adequate food supply
+0-0  adhesive
+0-0  farewell
+1-0  good day
+2-0  bye
+3-0  cheerio
+4-0  adieu
+5-0  goodbye
+0-0  describing word
+1-0  adjective
+0-0  adjust
+0-0  administration
+0-1  administration
+1-0  management
+1-1  management
+2-0  direction
+2-1  direction
+0-0  administrative body
+1-0  administrative organ
+0-0  administrative boundary
+0-0  administrative ability
+1-0  administrative competence
+0-0  administrative deed
+0-0  administrative fiat
+0-0  administrative instructions
+0-0  administrative law
+0-0  administrative occupation
+0-0  administrative organisation
+0-0  administrative procedure
+0-0  administrative sanction
+0-0  adoption
+0-0  adsorption
+0-0  adult
+0-0  adult education
+0-0  adventure
+0-0  adverb
+0-0  promotion
+1-0  advertisement
+0-0  advice
+0-1  advice
+0-2  advice
+0-0  aeration
+0-0  aerial
+0-0  aerial photograph
+0-0  aerial photography
+0-0  aerobic process
+0-0  aerobic treatment
+0-0  aerobiology
+0-0  aerodynamic noise
+0-0  plane
+0-1  plane
+1-0  aeroplane
+1-1  aeroplane
+2-0  bird
+2-1  bird
+0-0  aerosol
+0-0  aesthetics
+0-0  afforestation
+1-0  afforestment
+2-0  tree planting
+0-0  afterburner
+1-0  afterburning
+0-0  age
+0-0  aggressive
+0-0  assailant
+1-0  assaulter
+2-0  aggressor
+3-0  attacker
+0-0  agoraphobia
+0-0  agreement
+0-0  agri-foodstuff
+0-0  agricultural biotechnology
+0-0  agricultural building
+0-0  agricultural disaster
+0-0  agroecology
+1-0  agricultural ecology
+0-0  agricultural economics
+0-0  agricultural effluent
+0-0  agricultural engineering
+0-0  agricultural equipment
+0-0  agricultural equipment
+0-1  agricultural equipment
+1-0  agricultural machinery
+1-1  agricultural machinery
+2-0  farm machinery
+2-1  farm machinery
+0-0  agricultural exploitation
+0-0  agricultural hydraulics
+0-0  agricultural land
+0-0  agricultural landscape
+0-0  agricultural legislation
+0-0  agricultural management
+0-0  agricultural method
+0-0  agricultural pest
+0-0  agricultural planning
+0-0  agricultural policy
+0-0  agricultural pollution
+0-0  agricultural product
+0-0  agricultural output
+1-0  farm production
+2-0  agricultural production
+0-0  agricultural real estate
+0-0  agricultural storage
+0-0  agricultural structure
+0-0  agricultural undervaluation
+0-0  agricultural waste
+0-0  agriculture
+0-0  agriculture
+0-0  agriculture and cattle industry
+0-0  agriculture framework plan
+0-0  agritourism
+0-0  agrochemical
+0-0  agroforestry
+0-0  agroindustry
+0-0  agrometeorology
+0-0  agronomic value
+0-0  agronomy
+0-0  agrosystem
+0-0  aid policy
+0-0  air
+0-0  air conditioning
+1-0  AC
+2-0  air-conditioning
+0-0  air movement
+0-0  air pollutant
+0-0  air pollution
+0-0  air quality
+0-0  air quality control
+0-0  air quality management
+0-0  air quality monitoring
+0-0  air sac
+1-0  alveolus
+0-0  air safety
+0-0  air temperature
+0-0  air traffic
+0-0  air traffic law
+0-0  air transportation
+0-0  air-water interaction
+0-0  airborne noise
+0-0  aircraft
+0-0  aircraft noise
+0-0  airmail
+0-0  airport
+0-0  airspace planning
+0-0  alert
+1-0  warning
+2-0  alarm
+0-0  alarm clock
+0-0  albinism
+0-0  alchemist
+0-0  alchemy
+0-0  alcohol
+0-0  alcoholism
+0-0  alga
+0-0  algal bloom
+0-0  algebra
+0-0  algaecide
+1-0  algicide
+0-0  algorithm
+0-0  alibi
+0-0  alicyclic compound
+0-0  alicyclic hydrocarbon
+0-0  alignment
+0-0  aliphatic compound
+0-0  aliphatic hydrocarbon
+0-0  alkali soil
+0-0  element of group I
+1-0  alkaline
+2-0  alkaline metal
+3-0  alkali metal
+0-0  alkaline battery
+0-0  alkane series
+1-0  alkane
+2-0  methane series
+3-0  paraffin
+0-0  alkyl compound
+0-0  all-terrain vehicle
+0-0  allegory
+0-0  allergen
+0-0  allergy
+0-0  resource allotment
+1-0  allocation
+2-0  allotment
+0-0  allocation plan
+0-0  allotropy
+0-0  allowance
+0-0  alloy
+0-0  alluvial plain
+0-0  overflowing
+1-0  alluvion
+2-0  inundation
+3-0  flood
+0-0  almanac
+0-0  almost
+0-0  alpha radiation
+0-0  alphabet
+0-0  alternative material
+0-0  alternative technology
+0-0  altitude
+0-1  altitude
+0-0  alumina
+0-0  aluminium
+0-0  aluminium container
+0-0  aluminium content
+0-0  aluminium industry
+0-0  amalgam
+0-0  ambassador
+0-0  ambulance
+0-0  americium
+0-0  amethyst
+0-0  amine
+0-0  amino acid
+0-0  ammonia
+0-0  ammonification
+0-0  ammonium
+0-0  amphetamine
+0-0  amphibian
+0-0  amphitheatre
+0-0  amusement park
+0-0  anaconda
+0-0  anaerobic process
+0-0  anaerobic treatment
+0-0  anagram
+0-0  analogy
+0-0  analysis
+0-0  analysis programme
+0-0  analytical chemistry
+0-0  analytical equipment
+0-0  analytical method
+0-0  anarchism
+0-0  anarchy
+0-0  anatomy
+0-0  anchor
+0-0  angel
+0-0  flowering plant
+0-1  flowering plant
+1-0  angiosperm
+1-1  angiosperm
+0-0  angling
+1-0  line-fishing
+2-0  fishing
+0-0  animal
+0-0  animal behaviour
+0-0  animal biology
+0-0  animal conservatory
+0-0  animal corridor
+0-0  animal damage
+0-0  animal disease
+0-0  animal displacement
+0-0  animal ecology
+0-0  animal excrement
+0-0  animal experiment
+0-0  animal foodstuff
+0-0  animal for slaughter
+0-0  animal habitat
+0-0  animal heritage
+0-0  animal husbandry
+0-0  animal manure
+0-0  animal migration
+0-0  animal noise
+0-0  animal nutrition
+0-0  animal physiology
+0-0  animal population
+0-0  animal product
+0-0  animal production
+0-0  animal protection
+0-0  animal reproduction
+0-0  animal resource
+0-0  animal rights
+0-0  animal shelter
+0-0  animal species
+0-0  animal species reintroduction
+0-0  animal trade
+0-0  animal waste
+0-0  anime
+0-0  anion
+0-0  anise
+0-0  talocrural joint
+0-1  talocrural joint
+1-0  ankle
+1-1  ankle
+0-0  annelid
+0-0  anniversary
+0-0  ant
+0-0  antagonism
+0-0  antelope
+0-0  anthropic activity
+0-0  anthropologic reserve
+0-0  anthropologist
+0-0  anthropology
+0-0  antibiotic
+0-0  antibody
+0-0  anticipation of danger
+0-0  antifouling agent
+0-0  antimony
+0-0  antiparticle
+0-0  antipollution incentive
+0-0  antiquated plant
+0-0  antiseismic regulation
+0-0  antonym
+0-0  anvil
+0-0  anytime
+0-0  apartheid
+0-0  apartment block
+0-0  apathy
+0-0  aphorism
+0-0  apiculture
+1-0  beekeeping
+0-0  apoptosis
+0-0  apostle
+0-0  appeal
+0-0  appeal procedure
+0-0  apple
+0-0  apple tree
+1-0  apple
+0-0  applied ecology
+0-0  applied nutrition
+0-0  applied research
+0-0  applied science
+0-0  appraisal
+0-0  approach
+0-0  appropriate technology
+0-0  approval
+1-0  approbation
+0-0  approval of installations
+0-0  aquaculture
+0-0  aquamarine
+0-0  aquarium
+0-0  aquatic animal
+0-0  aquatic ecology
+0-0  aquatic ecosystem
+0-0  aquatic environment
+0-0  aquatic mammal
+0-0  aquatic organism
+0-0  aquatic plant
+0-0  aqueduct
+0-0  aquifer
+0-0  arable farming
+0-0  arboretum
+0-0  arboriculture
+0-0  archaeological
+0-0  archaeological site
+0-0  archeology
+1-0  archæology
+2-0  archaeology
+0-0  archbishop
+0-0  archduke
+0-0  archeologist
+1-0  archaeologist
+0-0  archer
+0-0  archetype
+0-0  archipelago
+0-0  architect
+0-0  architecture
+0-0  archive
+0-0  area of potential pollution
+0-0  area under stress
+0-0  argon
+0-0  arid land
+0-0  aristocracy
+0-0  arithmetic
+1-0  arithmetics
+0-0  armament
+0-0  armament conversion
+0-0  armed forces
+0-0  armistice
+0-0  armoury
+0-0  armpit
+0-0  aromatic compound
+0-0  aromatic hydrocarbon
+0-0  aromatic substance
+0-0  adapt
+1-0  arrange
+2-0  adjust
+3-0  suit
+4-0  accommodate
+5-0  conform
+0-0  arrangement for a deposit on packaging
+0-0  arrow
+0-0  arrowhead
+0-0  arsenic
+0-0  arson
+0-0  arsonist
+0-0  art
+0-0  artery
+0-0  artful
+0-0  arthritis
+0-0  arthropod
+0-0  artificial lake
+0-0  artificial reproductive technique
+0-0  artificial satellite
+0-0  artist
+1-0  creative person
+0-0  asbestos
+0-0  asbestos cement
+0-0  asbestosis
+0-0  ascendancy
+0-0  ascent
+0-0  ascent
+0-0  ascertain
+0-0  ascetic
+0-0  ash
+0-0  ashamed
+0-0  ashore
+0-0  ashtray
+0-0  asleep
+0-0  asparagus
+0-0  asphalt
+0-0  aspiration
+0-0  assay
+0-0  assemble
+1-0  get together
+2-0  gather
+0-0  assent
+0-0  assent
+0-0  assert
+0-0  assert
+0-0  assertive
+0-0  assign
+0-0  assignment
+0-0  assimilate
+0-0  assimilation
+0-0  assist
+0-0  association
+0-0  assorted
+0-0  astatine
+0-0  asterisk
+0-0  asteroid
+0-0  asthenosphere
+0-0  asthma
+0-0  astonish
+0-0  astonishing
+0-0  astonishment
+0-0  astound
+0-0  astounding
+0-0  astride
+0-0  astride
+0-0  astrologer
+0-0  star divination
+1-0  astrology
+0-0  astrometry
+0-0  astronautics
+0-0  astronomer
+0-0  astronomy
+0-0  astrophysics
+0-0  asymmetric
+1-0  asymmetrical
+0-0  asymptote
+0-0  atheist
+0-0  atlas
+0-0  atmosphere
+0-0  atmospheric aerosol
+0-0  atmospheric chemistry
+0-0  atmospheric circulation
+0-0  atmospheric component
+0-0  atmospheric composition
+0-0  atmospheric correction
+0-0  atmospheric emission
+0-0  atmospheric fallout
+0-0  atmospheric layering
+0-0  atmospheric monitoring
+0-0  atmospheric ozone
+0-0  atmospheric particulate
+0-0  atmospheric physics
+0-1  atmospheric physics
+0-0  atmospheric pollution
+0-0  atmospheric precipitation
+1-0  precipitation
+0-0  atmospheric process
+0-0  atmospheric science
+0-0  atmospheric structure
+0-0  atoll
+0-0  atom
+0-0  atractive
+0-0  atrazine
+0-0  atrocity
+0-0  attachment
+0-0  attachment
+0-0  attack
+0-1  attack
+0-0  attain
+0-0  attend
+0-0  attend
+0-0  attend
+0-0  attend
+0-0  attendant
+0-0  attentive
+0-0  attic
+0-0  attire
+0-0  attire
+0-0  attitude
+0-0  attract
+0-0  attribute
+0-0  audacious
+0-0  audio-visual presentation
+0-0  audiovisual equipment
+0-0  audiovisual media
+0-0  audit
+0-0  augment
+0-0  auspicious
+0-0  authorisation
+0-0  authoritarian
+0-0  authoritative
+0-0  authority body
+0-0  authorship
+0-0  autocracy
+0-0  autoecology
+0-0  automobile industry
+0-0  autumn
+0-0  avalanche
+0-0  avalanche protection
+0-0  avaricious
+0-0  avert
+0-0  avert
+0-0  aviary
+0-0  aviation law
+0-0  aviculture
+0-0  avid
+0-0  avifauna
+0-0  awe
+0-0  awhile
+0-0  axiom
+0-0  yeah
+1-0  aye
+2-0  yes
+3-0  yep
+0-0  baboon
+0-0  background level
+0-0  background noise
+0-0  background radiation
+0-0  bacon
+0-0  bacterial bed
+0-0  bactericide
+0-0  bacteriological pollution
+0-0  bacteriology
+0-0  bacterium
+0-0  steal
+1-0  bag
+2-0  pocket
+0-0  bagpipes
+0-0  baker
+0-0  baking powder
+0-0  balance
+0-0  balance of matter
+0-0  balancing of interests
+0-0  ballad
+0-0  ballroom
+0-0  banana
+0-0  bank
+0-0  bank protection
+0-0  banking
+0-0  barium
+0-0  barley
+0-0  barometer
+0-0  baron
+0-0  barrier beach
+0-0  barrier reef
+0-0  base
+0-0  baseball game
+1-0  baseball
+0-0  baseline monitoring
+0-0  basic food requirement
+0-0  basicity
+0-0  basidiomycete
+0-0  basketball
+1-0  basketball game
+0-0  bassoon
+0-0  bastardisation of fauna
+0-0  bastardisation of flora
+0-0  batch process
+0-0  bathing freshwater
+0-0  bathing seawater
+0-0  bathing water
+0-0  battery
+0-0  battery disposal
+0-0  bay
+0-0  beach
+0-0  beach cleansing
+0-0  bean
+1-0  edible bean
+0-0  bear
+0-0  beatification
+0-0  beaver
+0-0  bed
+0-1  bed
+0-0  bee
+0-0  bee conservation
+0-0  beef cattle
+0-0  beehive
+0-0  beekeeper
+1-0  apiculturist
+0-0  beer
+0-0  beetle
+0-0  behaviour
+0-0  behaviour of substances
+0-0  behaviour pattern
+0-0  behavioural science
+0-0  omphalos
+1-0  omphalus
+2-0  belly button
+3-0  navel
+4-0  umbilicus
+5-0  bellybutton
+0-0  beneficial organism
+0-0  benthic division
+0-0  benthos
+0-0  benzene
+0-0  benzopyrene
+0-0  berkelium
+0-0  beryllium
+1-0  glucinium
+0-0  beta radiation
+0-0  better
+0-0  between
+0-1  between
+0-0  beverage
+1-0  drink
+0-0  beverage industry
+0-0  bibliographic information
+0-0  bibliographic information system
+0-0  bibliography
+0-0  cycle
+1-0  bike
+2-0  bicycle
+0-0  big game
+0-0  bilateral convention
+0-0  bilge oil
+0-0  bilge water
+0-0  binary star
+0-0  bio-availability
+0-0  bioaccumulation
+0-0  bioaccumulative pollutant
+0-0  biochemical method
+0-0  biochemical oxygen demand
+0-0  biochemical process
+0-0  biochemical substance
+0-0  biochemistry
+0-0  biocide
+0-0  bioclimatology
+0-0  biocoenosis
+0-0  bioconcentration factor
+0-0  biodegradability
+0-0  biodegradable pollutant
+0-0  biodegradation
+0-0  biodiversity
+0-0  bioethics
+0-0  biofiltration
+0-0  biofuel
+0-0  biogas
+0-0  biogeochemical cycle
+0-0  biogeographical region
+0-0  biogeography
+0-0  biological analysis
+0-0  biological attribute
+0-0  biological contamination
+0-0  biological cycle
+0-0  biological development
+0-0  biological effect
+0-0  biological effect of pollution
+0-0  biological engineering
+0-0  biological heritage
+0-0  biological indicator
+0-0  biological monitoring
+0-0  biological pest control
+0-0  biological pollutant
+0-0  biological pollution
+0-0  biological process
+0-0  biological production
+0-0  wildlife reserve
+1-0  biological reserve
+0-0  biological resource
+0-0  biological test
+0-0  biological treatment
+0-0  biological waste gas purification
+0-0  biological waste treatment
+0-0  biological wastewater treatment
+0-0  biological water balance
+0-0  biological weapon
+0-0  biological science
+1-0  biology
+0-0  bioluminescence
+0-0  biomarker
+0-0  biomass
+0-0  biomass energy
+0-0  biome
+0-0  biophysics
+0-0  bioreactor
+0-0  biorhythm
+0-0  biosafety
+0-0  biosphere
+0-0  biosphere reserve
+0-0  biosynthesis
+0-0  biotechnological hazard
+0-0  biotechnology
+0-0  biotic factor
+0-0  biotic index
+0-0  biotope
+0-0  biotope network
+0-0  biotope order
+0-0  biotope protection
+0-0  bird
+0-0  bird of prey
+0-0  bird sanctuary
+0-0  bird species
+0-0  birth control
+0-0  bishop
+0-0  bismuth
+0-0  bitumen
+0-0  black
+0-0  black coal
+1-0  anthracite coal
+0-0  blackbird
+0-0  blacksmith
+0-0  blast furnace
+0-0  bleaching agent
+0-0  bleaching clay
+0-0  bleaching process
+0-0  blister
+0-0  blog
+1-0  web log
+2-0  weblog
+0-0  blood
+0-0  blood plasma
+0-0  blue
+0-1  blue
+0-0  blue-green alga
+1-0  cyanobacteria
+0-0  boating
+0-0  bocage
+0-0  bog
+0-0  bohrium
+0-0  boiler
+0-0  boiling point
+0-0  bonsai
+0-0  book
+0-0  bookkeeping
+0-0  border
+0-0  boron
+0-0  botanical conservatory
+0-0  botanical garden
+0-0  botany
+0-0  phytology
+1-0  botany
+0-0  bottle cap
+0-0  boundary
+0-0  boundary crossing
+0-0  boundary layer
+0-0  bow
+0-0  boy
+0-0  brackish water
+0-0  branch
+0-1  branch
+0-0  branch of activity
+0-0  bread
+0-0  breakfast
+0-0  breast milk
+0-0  breeding
+0-0  breeding bird
+0-0  breeding technique
+0-0  brick
+0-0  bridge
+0-0  bring
+0-0  broad-leaved tree
+0-0  broccoli
+0-0  bromine
+0-0  brooding
+0-0  brook
+0-0  brushwood
+0-0  bryophyte
+0-1  bryophyte
+0-0  bubble policy (emissions trading)
+1-0  bubble policy
+0-0  budget
+0-0  budget policy
+0-0  põrnikas
+1-0  bug
+0-0  building
+0-1  building
+0-0  building area
+0-0  building component
+0-0  building destruction
+0-0  building industry
+0-0  building land
+0-0  building material
+0-0  building materials industry
+0-0  building permit
+0-0  building planning
+0-0  building regulation
+0-0  building related illness
+1-0  sick building syndrome
+0-0  building restoration
+0-0  building service
+0-0  building site
+0-0  building site preparation
+0-0  building technology
+0-0  building waste
+0-0  built drainage system
+0-0  built environment
+0-0  built structure
+0-0  built-up area
+0-0  bulb cultivation
+0-0  bulky waste
+0-0  bull
+0-0  bumblebee
+0-0  bureaucracy
+0-0  bureaucratisation
+0-0  bus
+1-0  coach
+0-0  bus station
+0-0  bush clearing
+0-0  business
+0-0  business activity
+0-0  business classification
+0-0  business economics
+0-0  business organisation
+0-0  business policy
+0-0  butcher
+0-0  butter
+0-0  butterfly
+0-1  butterfly
+0-0  clitoris
+1-0  clit
+2-0  button
+0-0  button-cell battery
+0-0  buy
+1-0  purchase
+0-0  buy
+1-0  purchase
+0-0  by-catch
+0-0  by-product
+0-0  cable
+0-0  cactus
+0-0  cadmium
+0-0  caesium
+0-0  caffeine
+0-0  calcium
+0-0  calcium content
+0-0  calculation
+0-0  calculation method
+0-0  caliber
+0-0  calibration
+0-0  californium
+0-0  calligraphy
+0-0  camera
+0-0  camouflage
+0-0  camp
+1-0  army camp
+2-0  campsite
+3-0  military camp
+0-0  camping
+1-0  camping ground
+0-0  camping site
+0-0  canal
+0-0  canal lock
+0-0  cancer
+0-0  cancer risk
+0-0  candle
+0-1  candle
+0-0  canid
+0-0  canyon
+0-0  capital
+0-0  automobile
+1-0  car
+0-0  car park
+0-0  car tyre
+0-0  carbohydrate
+0-0  carbon
+0-0  carbon dioxide
+0-0  carbon dioxide tax
+0-0  carbon monoxide
+0-0  carbonate
+0-0  carcass disposal
+0-0  carcinogen
+0-0  carcinogenicity
+0-0  carcinogenicity test
+0-0  cardinal
+0-0  cardiology
+0-0  cardiovascular disease
+0-0  cardiovascular system
+0-0  career
+0-0  carnivore
+0-0  carpet
+0-0  carry-over effect
+0-0  cartography
+0-0  trial
+1-0  lawsuit
+2-0  case
+0-0  cash crop
+0-0  castle
+0-0  cat
+0-1  cat
+0-0  catalysis
+0-0  catalyst
+0-0  catalytic converter
+0-0  catapult
+0-0  catastrophe
+0-0  catch yield
+0-0  catchment
+0-0  catchment area
+0-0  category
+0-0  category of endangered species
+0-0  cation
+0-0  cattle
+0-0  cauliflower
+0-1  cauliflower
+0-0  cause-effect relation
+0-0  cave
+0-0  caviar
+0-0  celery
+0-0  cell
+0-0  στοιχείο
+0-1  στοιχείο
+1-0  electrochemical cell
+1-1  electrochemical cell
+2-0  energy cell
+2-1  energy cell
+3-0  cell
+3-1  cell
+4-0  Galvanic cell
+4-1  Galvanic cell
+0-0  cellulose
+0-0  cellulose industry
+0-0  cement
+0-0  cement industry
+0-0  cement manufacture
+0-0  census survey
+0-0  central government
+0-0  central park area
+0-0  centralisation
+0-0  centrifugation
+0-0  cephalopod
+0-0  ceramics
+0-0  ceramics industry
+0-0  cerium
+0-0  certification
+0-0  cetacean
+0-0  chair
+0-0  chalk
+0-0  champagne
+0-0  change in value
+0-0  channelling
+0-0  chaos theory
+0-0  characteristic
+0-1  characteristic
+0-2  characteristic
+0-3  characteristic
+0-4  characteristic
+0-0  charcoal
+0-0  chart
+0-0  nautical chart
+1-0  chart
+0-0  cheers
+1-0  thanks
+2-0  thank you
+0-0  cheese
+0-0  cheetah
+1-0  chetah
+0-0  chelicerate
+0-0  chemical
+0-0  chemical addition
+0-0  chemical analysis
+0-0  chemical composition
+0-0  chemical contamination
+0-0  chemical corrosivity
+0-0  chemical decontamination
+0-0  element
+0-1  element
+1-0  chemical element
+1-1  chemical element
+0-0  chemical fallout
+0-0  chemical fertiliser
+0-0  chemical in the environment
+0-0  chemical industry
+0-0  chemical installation
+0-0  chemical measurement of pollution
+0-0  chemical oxygen demand
+0-0  chemical pest control
+0-0  chemical plant
+0-0  chemical policy
+0-0  chemical pollutant
+0-0  chemical pollution
+0-0  chemical process
+0-0  chemical product
+0-0  chemical property
+0-0  chemical reaction
+0-0  chemical reduction
+0-0  chemical risk
+0-0  chemical structure
+0-0  chemical treatment
+0-0  chemical waste
+0-0  chemical weapon
+0-0  chemicals act
+0-0  chemisorption
+0-0  pharmacist
+1-0  chemist
+0-0  pharmacy
+1-0  chemist's
+2-0  chemist's shop
+0-0  chemistry
+0-0  chess
+0-1  chess
+0-0  chestnut
+0-0  chicken
+0-1  chicken
+0-2  chicken
+0-0  child
+0-0  chimney
+0-0  chimney height
+0-0  chimpanzee
+0-0  chipmunk
+0-1  chipmunk
+0-0  chiropteran
+0-0  chloride
+0-0  chlorinated hydrocarbon
+0-0  chlorination
+0-0  chlorine
+0-0  chlorophenol
+0-0  chlorophyll
+0-0  chlorosis
+0-0  chocolate
+0-1  chocolate
+0-0  cholesterol
+0-0  chordate
+0-0  chorology
+0-0  chromatographic analysis
+0-0  chromatography
+0-0  chromium
+0-0  chromosome
+0-0  chrysophyta
+0-0  church
+0-0  cigar
+0-0  cigarette
+0-1  cigarette
+0-0  cinematographic film
+0-0  circular mail
+0-0  citizen
+0-0  citizen awareness
+0-0  citizen initiative
+0-0  citizen rights
+0-0  city
+0-0  city centre
+0-0  civil air traffic
+0-0  civil engineering
+0-0  civil law
+0-0  civil safety
+0-0  civilian protection
+0-0  claim for restitution
+0-0  clarinet
+0-0  classification
+0-0  clay
+0-0  clean air area
+0-0  clean air car
+0-1  clean air car
+0-0  clean technology
+0-0  cleaning up
+0-0  cleanliness
+0-0  cleansing department
+0-0  clearing sludge
+0-0  cliff
+0-0  climate
+0-0  climate protection
+0-0  climate resource
+0-0  climate type
+0-0  climatic alteration
+0-0  climatic change
+1-0  climate change
+0-0  climatic effect
+0-0  climatic experiment
+0-0  climatic zone
+0-0  climatology
+0-0  climax
+0-0  climbing plant (wall)
+1-0  climbing plant
+0-0  clinical symptom
+0-0  cloning
+0-0  closing down
+0-0  closing down of firm
+0-0  clothing
+1-0  apparel
+0-0  clothing industry
+0-0  cloud
+0-0  co-incineration
+0-0  co-operation
+0-0  co-operation policy
+0-0  co-operation principle
+0-0  co-ordinate system
+0-0  co-ordination
+0-0  coagulation
+0-0  coal
+0-0  coal industry
+0-0  coal liquefaction
+0-0  coal mining
+0-0  coal refining
+0-0  coal technology
+0-0  coal-based energy
+0-0  coal-fired power plant
+0-0  coast
+0-0  coast protection
+0-0  coastal area
+0-0  coastal development
+0-0  coastal ecosystem
+0-0  coastal environment
+0-0  coastal fishing
+0-0  coastal pollution
+0-0  coastal water
+0-0  coastal zone planning
+0-0  coastguard
+0-0  coating
+0-0  cobalt
+0-0  cocaine
+0-0  cockroach
+0-0  code
+0-0  code of practice
+0-0  codification
+0-0  coelenterate
+0-0  coffee
+0-0  cogeneration
+0-0  money
+1-0  coin
+0-0  coke
+0-0  cold
+0-0  coliform bacterium
+0-0  colina
+1-0  loma
+2-0  hill
+0-0  collective wastewater treatment
+0-0  colloid
+0-0  colloidal state
+0-0  colonisation
+0-0  colony
+0-0  colo(u)r
+1-0  colour
+0-0  colour composition
+0-0  colourimetry
+0-0  colubrid
+0-0  combination effect
+0-0  combined cycle-power station
+0-0  combined sewer system
+0-0  combined transport
+0-0  combined waste water
+0-0  combustibility
+0-0  combustion engine
+0-0  combustion gas
+0-0  combustion residue
+0-0  come
+0-1  come
+0-0  comet
+0-0  commercial fishery
+0-0  commercial law
+0-0  commercial noise
+0-0  commercial traffic
+0-0  commercial transaction
+0-0  commercial vehicle
+0-0  commercialisation
+0-0  common agreement
+0-0  common agricultural policy of the EU
+0-1  common agricultural policy of the EU
+1-0  common agricultural policy
+1-1  common agricultural policy
+0-0  common commercial policy
+0-0  common tariff policy
+0-0  communications
+0-0  communications industry
+0-0  communications policy
+0-0  communications system
+0-0  communism
+0-0  community facility
+1-0  public facility
+0-0  community-pays principle
+0-0  commuter traffic
+0-0  compaction
+0-0  company policy
+0-0  company structure
+0-0  comparative law
+0-0  comparative test
+0-0  comparison
+0-0  compensation
+0-0  compensation for damage
+0-0  compensatory measure
+0-0  compensatory tax
+0-0  competition
+0-0  competition law
+0-0  competitive examination
+0-0  competitiveness
+0-0  complex formation
+0-0  complexing agent
+0-0  composite pollution
+0-0  composition of population
+0-0  compost
+0-0  compostable waste
+0-0  composting
+0-0  composting by producer
+0-0  chemical compound
+0-1  chemical compound
+1-0  compound
+1-1  compound
+0-0  compression
+0-0  compressor
+0-0  computer
+0-0  concentration
+0-0  concept of environment
+0-0  concession
+0-0  concrete
+0-0  concrete products industry
+0-0  condensation (process)
+0-1  condensation (process)
+1-0  condensation
+1-1  condensation
+0-0  electrical conductivity
+1-0  conductivity
+0-0  conflict
+0-0  conflict of aims
+0-0  conflict of interests
+0-0  conflicting use
+0-0  congress
+0-0  conifer
+0-0  coniferous forest
+0-0  coniferous tree
+0-0  conservation
+0-0  conservation of monuments
+0-0  conservation policy
+0-0  constellation
+0-0  constitution
+0-0  constitutional law
+0-0  artificial language
+1-0  constructed language
+0-0  construction equipment
+0-0  construction noise
+0-0  construction policy
+0-0  construction technology
+0-0  construction with recycled material
+0-0  construction work
+0-0  consultancy
+0-0  consultation
+0-0  consumer behaviour
+0-0  consumer goods
+0-0  consumer group
+0-0  consumer information
+0-0  consumer product
+0-0  consumer protection
+0-0  consumer waste
+0-0  consumption
+0-0  consumption pattern
+0-0  container
+0-0  containment
+0-1  containment
+1-0  containment (nuclear industry)
+1-1  containment (nuclear industry)
+0-0  contaminated soil
+0-0  contamination
+0-0  continent
+0-0  continental climate
+0-0  continental shelf
+0-0  continuing education
+0-0  continuous load
+0-0  contour farming
+0-0  contract
+0-0  control measure
+0-0  controlled burning
+0-0  controlled hunting zone
+0-0  controlling authority
+0-0  conurbation
+0-0  convention
+0-0  conventional energy
+0-0  cooling
+0-0  cooling oil
+0-0  cooling tower
+0-0  cooling water
+0-0  copper
+0-0  coppice
+0-0  coppice with standards
+0-0  coral
+0-0  coral reef
+0-0  coral reef lagoon
+0-0  core meltdown
+0-1  core meltdown
+0-0  cork
+0-0  corridor
+0-0  corrosion
+0-0  corrosion inhibitor
+0-0  cosmetic industry
+0-0  cosmic radiation
+0-0  cosmology
+0-0  cost
+0-0  cost increase
+0-0  cost reduction
+0-0  cost-benefit
+0-0  cost-benefit analysis
+0-0  cotton
+0-0  state
+1-0  nation
+2-0  country
+0-0  country lodge
+0-0  county
+0-0  court
+0-0  court of justice
+0-0  cove
+0-0  roofing
+1-0  covering
+0-0  cow
+0-0  craft
+1-0  arts and crafts
+0-0  credit
+0-0  credit assistance
+0-0  credit policy
+0-0  creek
+0-0  crime
+0-0  criminal law
+0-0  criminal law procedure
+0-0  criminal liability
+0-0  criminality
+0-0  crisis management
+0-0  critical level
+0-0  critical load
+0-0  crocodile
+0-0  crop production
+0-0  crop protection
+0-0  crop rotation
+0-0  crop treatment
+0-0  crossing place
+0-0  crossing place for animals
+0-0  crossword
+0-0  crucifix
+0-0  crude oil
+0-0  cruising
+0-0  crustacean
+0-0  cryptogam
+0-0  crystallisation
+0-0  crystallography
+0-0  cucumber
+0-0  cultivated plant
+0-0  cultivation
+1-0  tillage
+0-0  cultivation method
+0-0  cultivation of agricultural land
+0-0  cultivation system
+0-0  cultural development
+0-0  cultural facility
+0-0  cultural heritage
+0-0  cultural indicator
+0-0  cultural policy
+0-0  culture
+0-0  curium
+0-0  currency
+0-0  curriculum
+0-0  customs
+0-0  customs regulation
+0-0  customs tariff
+0-0  cutting
+0-0  cutting (vegetative propagation)
+1-0  cutting
+0-0  cyanate
+0-0  cyanide
+0-0  cycle path
+0-0  cyclone
+0-0  cytology
+0-0  cytotoxicity
+0-0  dairy farm
+0-0  dairy industry
+0-0  dairy product
+0-0  dam
+0-0  dam draining
+0-0  damage
+0-0  damage assessment
+0-0  damage from military manoeuvres
+0-0  damage insurance
+0-0  damage prevention
+0-0  dance
+0-0  dandelion
+0-0  danger analysis
+0-0  dangerous goods
+0-0  dangerous goods law
+0-0  dangerous goods regulation
+0-0  dangerous installation
+0-0  dangerous materials transport
+0-0  darmstadtium
+0-0  data acquisition
+0-0  data analysis
+0-0  data carrier
+0-0  data centre
+0-0  data exchange
+0-0  data on the state of the environment
+0-0  data processing
+0-0  data processing law
+0-0  data processing system
+0-0  data protection
+0-0  data recording technique
+0-0  database
+0-0  dating
+0-0  daughter
+0-0  dazzle
+0-0  de-inking
+0-0  deaf
+0-0  death penalty
+1-0  death sentence
+2-0  capital punishment
+0-0  debit
+0-0  debt
+0-0  debt service
+0-0  decay product
+0-0  decentralisation
+0-0  dechlorination
+0-0  decibel
+0-0  deciduous wood
+1-0  deciduous forest
+0-0  deciduous tree
+0-0  decision
+0-0  decision making support
+0-0  decision process
+0-0  decision-support system
+0-0  declaration of public utility
+0-0  decomposition
+0-0  decontamination
+0-0  decree
